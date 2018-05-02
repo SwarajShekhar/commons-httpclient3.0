@@ -10,3 +10,5 @@ for more information.
 See docs/status.html, or
    http://jakarta.apache.org/commons/httpclient/status.html
 for the status of the project.
+
+Code is from commons-httpclient3.0 Version
